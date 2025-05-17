@@ -1,3 +1,12 @@
+![image](https://github.com/user-attachments/assets/12fcdb0f-1a76-49e2-9ce0-8b7dfa5b27af)
+![image](https://github.com/user-attachments/assets/bcb94747-82fe-4682-82cd-4f9d077bdda6)
+![image](https://github.com/user-attachments/assets/7d29336c-05f8-4967-adfc-dd55577634c6)
+![image](https://github.com/user-attachments/assets/b147e50b-f5da-4dbb-9027-c3b94ed1f5c5)
+
+
+
+
+
 # Smart Quiz & Summary Generator
 
 This project was created as part of my first hackathon experience. It focuses on generating quizzes and content summaries by processing uploaded files like PDFs or text documents.
